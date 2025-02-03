@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56c54797d169dd8419f99d3777ed1bb2, type: 3}
+  m_Name: couriertest_Render_2x2
+  m_EditorClassIdentifier: 
+  renderDivisions: 2
+  snapshots:
+  - {fileID: 2800000, guid: 3cb140ff9932c554f9663d5106c9122f, type: 3}
+  - {fileID: 2800000, guid: 7073b3cdeca1502428ae2bca4af2170d, type: 3}
+  - {fileID: 2800000, guid: a10254cb16c9ee34b9884b346b9babea, type: 3}
+  - {fileID: 2800000, guid: e4f0fa7ac5b1a0148af3f52b32780351, type: 3}
